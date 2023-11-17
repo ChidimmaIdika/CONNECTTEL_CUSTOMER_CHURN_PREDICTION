@@ -68,7 +68,7 @@ This project illustrates how data-driven analysis and predictive modeling can be
 The complete workflow, from data exploration to model selection, is available in this GitHub repository, providing a comprehensive resource for understanding and implementing customer churn prediction in the telecommunications domain.
 
 ---
- ***For more details, you can view my code and documentation process here... [Customer Churn Prediction Project](https://github.com/ChidimmaIdika/Churn-Prediction-Project-using-Machine-Learning.git)***      
+ ***For more details, you can view my code and documentation process here... [Customer Churn Prediction Project](https://github.com/ChidimmaIdika/CONNECTTEL_CUSTOMER_CHURN_PREDICTION/blob/Chidimma/CONNECTTEL%20CUSTOMER%20CHURN%20PREDICTION.ipynb)***      
 
 ---
 
