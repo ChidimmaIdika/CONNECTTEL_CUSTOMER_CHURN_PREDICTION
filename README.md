@@ -25,12 +25,12 @@
 In today's highly competitive business landscape, retaining customers is crucial for the long-term success of any company. Customer churn, or the rate at which customers stop doing business with a company, can have a significant impact on revenue. ConnectTel Telecom Company faces the pressing need to address customer churn, which poses a significant threat to its business sustainability and growth. The company's current customer retention strategies lack precision and effectiveness, resulting in the loss of valuable customers to competitors. To overcome this challenge, ConnectTel aims to develop a robust customer churn prediction system for which I was contacted to handle as a Data Scientist. By leveraging advanced analytics and machine learning techniques on available customer data, the company seeks to accurately forecast customer churn and implement targeted retention initiatives. This proactive approach will enable ConnectTel to reduce customer attrition, enhance customer loyalty, and maintain a competitive edge in the highly dynamic and competitive telecommunications industry.
 
 ---
-***In this GitHub post, I explore the challenge of predicting customer churn in the telecommunications industry. Leveraging machine learning algorithms, I analyze a dataset provided by ConnectTel Telecom, aiming to build models that can effectively predict customers likely to churn and make data-driven decisions.***
+***In this GitHub post, I explored the challenge of predicting customer churn in the telecommunications industry. Leveraging machine learning algorithms, I analyzed a dataset provided by ConnectTel Telecom, aiming to build models that can effectively predict customers likely to churn, as well as make data-driven decisions.***
 
 ---
 
 ## Data Exploration and Preprocessing
-In this first part of the project, I begin by exploring and preparing my data. The ConnectTel dataset contains information about various customers, including demographic details, the type of services they are subscribed to, and their payment history.
+In this first part of the project, I began by exploring and preparing my data. The ConnectTel dataset contains information about various customers, including demographic details, the type of services they are subscribed to, and their payment history.
 
 - **Exploratory Data Analysis:** I kickstarted the project with Exploratory Data Analysis (EDA) to gain insights into the dataset. I loaded and examined the dataset to understand its structure. I visualized key features and analyzed summary statistics to get a sense of the data. Through visualizations and statistical summaries, I uncovered patterns, distribution of features, and potential correlations. Understanding the data is crucial for informed decision-making in subsequent stages.
 
