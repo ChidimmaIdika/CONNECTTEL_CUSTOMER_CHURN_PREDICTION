@@ -1,4 +1,4 @@
-# CONNECTTEL_CUSTOMER_CHURN_PREDICTION
+# CONNECTTEL_Customer_Churn_Prediction
 
 ### (Predicting Customer Churn with Machine Learning)
 
