@@ -25,7 +25,7 @@
 In today's highly competitive business landscape, retaining customers is crucial for the long-term success of any company. Customer churn, or the rate at which customers stop doing business with a company, can have a significant impact on revenue. ConnectTel Telecom Company faces the pressing need to address customer churn, which poses a significant threat to its business sustainability and growth. The company's current customer retention strategies lack precision and effectiveness, resulting in the loss of valuable customers to competitors. To overcome this challenge, ConnectTel aims to develop a robust customer churn prediction system for which I was contacted to handle as a Data Scientist. By leveraging advanced analytics and machine learning techniques on available customer data, the company seeks to accurately forecast customer churn and implement targeted retention initiatives. This proactive approach will enable ConnectTel to reduce customer attrition, enhance customer loyalty, and maintain a competitive edge in the highly dynamic and competitive telecommunications industry.
 
 ---
-***In this GitHub post, I explored the challenge of predicting customer churn in the telecommunications industry. Leveraging machine learning algorithms, I analyzed a dataset provided by ConnectTel Telecom, aiming to build models that can effectively predict customers likely to churn, as well as make data-driven decisions.***
+***In this project, I explored the challenge of predicting customer churn in the telecommunications industry. Leveraging machine learning algorithms, I analyzed a dataset provided by ConnectTel Telecom, aiming to build models that can effectively predict customers likely to churn, as well as make data-driven decisions.***
 
 ---
 
